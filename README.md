@@ -61,18 +61,6 @@ I enjoy reading books alongside coding, right now I'm working through:
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🔗 [Attention-Is-All-You-Need-From-Scratch](https://github.com/Roozbehsn/Attention-Is-All-You-Need-From-Scratch) | Transformer architecture implemented from scratch in PyTorch — multi-head self-attention, positional encoding, encoder-decoder stack |
-| 🔗 [MNIST-Ensemble-CNN-Paper-Implementation](https://github.com/Roozbehsn/MNIST-Ensemble-CNN-Paper-Implementation) | PyTorch reproduction of an ensemble-CNN paper for MNIST digit recognition using M3/M5/M7 architectures |
-| 🔗 [BPE-Tokenizer-from-Scratch](https://github.com/Roozbehsn/BPE-Tokenizer-from-Scratch) | Byte Pair Encoding subword tokenizer built from scratch and demonstrated on a real text corpus |
-| 🔗 [NLTK-Text-Preprocessing](https://github.com/Roozbehsn/NLTK-Text-Preprocessing) | Text preprocessing pipeline with custom regex tokenization, POS-aware lemmatization, and sentence segmentation |
-| 🔗 [Particle-Swarm-Optimization-PSO-Visualizer](https://github.com/Roozbehsn/Particle-Swarm-Optimization-PSO-Visualizer) | PSO algorithm implementation and visualizer for continuous optimization on Rastrigin and Shifted Griewank functions |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
