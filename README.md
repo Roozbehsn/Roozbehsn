@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Roozbeh Seyednozadi 👋</h1>
-<h3 align="center">Exploring LLMs & NLP | ML Engineer</h3>
+<h3 align="center">Exploring the worlds of LLMs & NLP | ML Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roozbehseyednozadi" target="_blank">
