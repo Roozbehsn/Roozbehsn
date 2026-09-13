@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/roozbehseyednozadi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:example@gmail.com" target="_blank">
+  <a href="mailto:rseyednozadi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -24,8 +24,9 @@ I love coding, so I try to implement every concept I'm curious about — from **
 - 🔭 I learn by doing: rebuilding classic ML/DL papers (Transformers, CNN ensembles, tokenizers) in pure PyTorch/Python instead of just reading about them
 - 🌱 Currently exploring optimization algorithms, NLP fundamentals, and going deeper into LLM-related projects
 - 📊 Also interested in core **Machine Learning concepts**, and I share notebooks on **Kaggle** as I work through them
+- 🔬 **Research interests:** Transformer architectures, attention mechanisms, tokenization methods (BPE), and NLP preprocessing techniques and other topics in this space
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/roozbehseyednozadi)
-- ✉️ Or email me at **example@gmail.com**
+- ✉️ Or email me at **rseyednozadi@gmail.com**
 
 ---
 
@@ -75,8 +76,8 @@ I enjoy reading books alongside coding — right now I'm working through:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Roozbehsn&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roozbehsn&layout=compact&hide_border=true" />
+  <img height="165" src="https://readmestats.999857.xyz/api?username=Roozbehsn&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://readmestats.999857.xyz/api/top-langs/?username=Roozbehsn&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
