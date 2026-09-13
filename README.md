@@ -60,18 +60,4 @@ I enjoy reading books alongside coding, right now I'm working through:
 **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://readmestats.999857.xyz/api?username=Roozbehsn&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://readmestats.999857.xyz/api/top-langs/?username=Roozbehsn&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Roozbehsn&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories and connect on LinkedIn.</i></p>
