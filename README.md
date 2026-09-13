@@ -16,11 +16,11 @@
 
 Hi, I'm **Roozbeh Seyednozadi**, a Computer Engineering student at **IAUM (Islamic Azad University of Mashhad)** in Mashhad, Iran.
 
-I love coding, so I try to implement every concept I'm curious about — from **LLMs** and **LLM architecture** to **NLP tasks** like text cleaning and embedding algorithms such as **BPE**. I enjoy doing research in these areas too, which is why I've implemented two papers from scratch: it helps me build a deeper understanding while exploring the field further. I'm steadily working toward becoming an **AI Engineer**.
+I love coding, so I try to implement every concept I'm curious about, from **LLMs** and **LLM architecture** to **NLP tasks** like text cleaning and embedding algorithms such as **BPE**. I enjoy doing research in these areas too, which is why I've implemented two papers from scratch: it helps me build a deeper understanding while exploring the field further. I'm steadily working toward becoming an **AI Engineer**.
 
 - 🎓 Computer Engineering student at **Azad University of Mashhad**
 - 🧠 Focused on **Deep Learning**, **NLP**, and implementing research papers **from scratch**
-- 🤖 Deeply interested in the **LLM world** — how transformers, tokenization, and attention actually work under the hood
+- 🤖 Deeply interested in the **LLM world**, how transformers, tokenization, and attention actually work under the hood
 - 🔭 I learn by doing: rebuilding classic ML/DL papers (Transformers, CNN ensembles, tokenizers) in pure PyTorch/Python instead of just reading about them
 - 🌱 Currently exploring optimization algorithms, NLP fundamentals, and going deeper into LLM-related projects
 - 📊 Also interested in core **Machine Learning concepts**, and I share notebooks on **Kaggle** as I work through them
@@ -51,7 +51,7 @@ I love coding, so I try to implement every concept I'm curious about — from **
 
 ### 📖 Currently Reading
 
-I enjoy reading books alongside coding — right now I'm working through:
+I enjoy reading books alongside coding, right now I'm working through:
 
 <p align="left">
   <img src="https://covers.openlibrary.org/b/isbn/9781492032649-L.jpg" alt="Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow book cover" width="150" />
